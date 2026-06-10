@@ -9,3 +9,8 @@ Robotics
 
 Here we need to learn about Robotics
 How things work
+
+For Robotics We requires a good knowledge at many points listed
+Physics & Math
+Electronics
+Programming
