@@ -12,3 +12,6 @@ Programming Language for automation
 Great Electrical circuit
 BMS 
 Motors
+
+This is going to be very interesting thing in comming future.
+Just Imagine how it will be all vechile on road which are fully automatics no Drivers are required.
