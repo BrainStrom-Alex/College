@@ -4,7 +4,7 @@ College years are going to be interseting since, I gonna make lots of projects.
 My main focus will be on Robotics and Automatic Electrical Vechile.
 
 =====
-A EVs
+EVs
 =====
 
 Skills required here are listed
@@ -15,9 +15,9 @@ Motors
 
 This is going to be very interesting thing in comming future.
 Just Imagine how it will be all vechile on road which are fully automatics no Drivers are required.
---------
+========
 Robotics
---------
+========
 Here we need to learn about Robotics
 How things work
 
