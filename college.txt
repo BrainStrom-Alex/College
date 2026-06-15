@@ -8,3 +8,8 @@ T shirt
 Pant
 Shoes
 Travelling Bag
+
+Also I need some electric hardware for projects listed below.
+Sensors
+Microcontroller
+Basic Electric Componenet
