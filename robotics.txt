@@ -1,4 +1,4 @@
 This is a file made for robotics.
 It is going to be so interseting to look how it works
 For Robotics many type of knowledge are required
-This is just a demo projects
+This is just a demo projects.
